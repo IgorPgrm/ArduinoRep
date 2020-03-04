@@ -20,3 +20,14 @@ pinMode(h, OUTPUT);
 
 void loop(){
 }
+
+void OnAllSeg(){
+digitalWrite(a,HIGH);
+digitalWrite(b,HIGH);
+digitalWrite(c,HIGH);
+digitalWrite(d,HIGH);
+digitalWrite(e,HIGH);
+digitalWrite(f,HIGH);
+digitalWrite(g,HIGH);
+digitalWrite(h,HIGH);
+}
