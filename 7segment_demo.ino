@@ -31,3 +31,14 @@ digitalWrite(f,HIGH);
 digitalWrite(g,HIGH);
 digitalWrite(h,HIGH);
 }
+
+void OffAllSeg(){
+digitalWrite(a,LOW);
+digitalWrite(b,LOW);
+digitalWrite(c,LOW);
+digitalWrite(d,LOW);
+digitalWrite(e,LOW);
+digitalWrite(f,LOW);
+digitalWrite(g,LOW);
+digitalWrite(h,LOW);
+}
